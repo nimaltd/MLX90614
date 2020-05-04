@@ -1,5 +1,9 @@
 # MLX90615 library
-<br />
+
+* http://www.github.com/NimaLTD   
+* https://www.instagram.com/github.nimaltd/   
+* https://www.youtube.com/channel/UCUhY7qY1klJm1d2kulr9ckw   
+
 I hope use it and enjoy.
 <br />
 I use Stm32f030 and Keil Compiler and Stm32CubeMX wizard.
