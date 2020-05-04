@@ -7,12 +7,12 @@ I use Stm32f030 and Keil Compiler and Stm32CubeMX wizard.
 Please Do This ...
 <br />
 <br />
-1) Enable i2c on CubeMx.
+1) Enable i2c standard mode on CubeMx.
 <br />
 2) Select "General peripheral Initalizion as a pair of '.c/.h' file per peripheral" on project settings.
 <br />
-3) Config your Mlx90615Conf.h file.
+3) Config your Mlx9061xConf.h file.
 <br />
-4) call  Mlx90615_Init() on your app.
+4) call  mlx9061x_init() on your app.
 <br />
-5) Call Mlx90615_ReadTempTarget(&temp) or Mlx90615_ReadTempAmbient(&temp).
+5) Call mlx9061x_readTargetC(&temp).
