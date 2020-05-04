@@ -1,4 +1,4 @@
-# MLX90615 library
+# MLX90614 library
 
 * http://www.github.com/NimaLTD   
 * https://www.instagram.com/github.nimaltd/   
@@ -15,8 +15,7 @@ Please Do This ...
 <br />
 2) Select "General peripheral Initalizion as a pair of '.c/.h' file per peripheral" on project settings.
 <br />
-3) Config your Mlx9061xConf.h file.
+3) Config your Mlx90614Config.h file.
 <br />
-4) call  mlx9061x_init() on your app.
-<br />
-5) Call mlx9061x_readTargetC(&temp).
+4) call  mlx90614_init() on your app.
+<
